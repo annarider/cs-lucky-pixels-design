@@ -8,6 +8,7 @@ _Last updated: 2026-10-08_
 - [x] Original SVG graphics, self-hosted fonts, Heroicons
 - [x] Netlify form wired up (untested until deployed)
 - [x] Tracking docs and CLAUDE.md
+- [x] Logo mark swapped to Heroicons sparkles; landing-page hero graphics removed
 
 ## Next
 - [ ] Anna reviews the live site and requests changes

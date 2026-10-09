@@ -15,3 +15,4 @@
 | 2026-10-08 | Original SVG graphics replace the CodeStitch-hosted ones | Unclear license; no CDN dependency |
 | 2026-10-08 | All colors are CSS variables at the top of assets/css/styles.css | Anna may change the palette |
 | 2026-10-08 | Private notes stay out of the public repo (repo is public; Netlify serves the repo root) | Privacy |
+| 2026-10-08 | Logo mark is the Heroicons "sparkles" icon (also the favicon). Flower/spark graphics removed from the landing page, kept on About behind the photo | Free-floating on the landing page they looked weak; they work anchored to the photo |
